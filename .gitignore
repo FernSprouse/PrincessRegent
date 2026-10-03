@@ -1,0 +1,21 @@
+# ferns additions
+
+# from [Alchyr/BaseLib-StS2](https://github.com/Alchyr/BaseLib-StS2/blob/master/.gitignore)
+local.props
+!local.props.template
+
+.godot/
+/android/
+.git/
+.idea/
+.vs/
+publish/
+bin/
+build/BaseLib.pck
+.editorconfig
+*.uid
+*.user
+*.import
+.vscode/*
+/.dotnet
+.directory
