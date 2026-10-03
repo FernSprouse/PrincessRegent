@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincessRegent", "PrincessRegent.csproj", "{E5DF6061-04C2-4210-B4A1-937BEE050950}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrincessRegent", "PrincessRegent.csproj", "{E5F8F867-7503-486A-A9A2-5EA36C2B57FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,11 +9,11 @@ Global
 		ExportRelease|Any CPU = ExportRelease|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E5DF6061-04C2-4210-B4A1-937BEE050950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E5DF6061-04C2-4210-B4A1-937BEE050950}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E5DF6061-04C2-4210-B4A1-937BEE050950}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
-		{E5DF6061-04C2-4210-B4A1-937BEE050950}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
-		{E5DF6061-04C2-4210-B4A1-937BEE050950}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
-		{E5DF6061-04C2-4210-B4A1-937BEE050950}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{E5F8F867-7503-486A-A9A2-5EA36C2B57FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F8F867-7503-486A-A9A2-5EA36C2B57FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F8F867-7503-486A-A9A2-5EA36C2B57FB}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{E5F8F867-7503-486A-A9A2-5EA36C2B57FB}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{E5F8F867-7503-486A-A9A2-5EA36C2B57FB}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{E5F8F867-7503-486A-A9A2-5EA36C2B57FB}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
 	EndGlobalSection
 EndGlobal
