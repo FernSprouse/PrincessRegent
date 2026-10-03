@@ -1,2 +1,2 @@
-# princess-regent
+# Princess Regent
 For Mae <3
